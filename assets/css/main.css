@@ -21,7 +21,7 @@
 :root {
   --color-default: #484A47;
   --color-primary: #5C6D70;
-  --color-secondary: #D36135;
+  --color-secondary: #8D1C1C;
 }
 
 /* Smooth scroll behavior */
@@ -43,7 +43,7 @@ a {
 }
 
 a:hover {
-  color: #D36135;
+  color: #8D1C1C;
   text-decoration: none;
 }
 
@@ -180,7 +180,7 @@ section {
 }
 
 .scroll-top:hover {
-  background: #D36135;
+  background: #8D1C1C;
   color: #fff;
 }
 
@@ -318,7 +318,7 @@ section {
 }
 
 .header .logo h1 span {
-  color: #D36135;
+  color: #8D1C1C;
 }
 
 .sticked-header-offset {
@@ -1721,7 +1721,7 @@ section {
 
 .contact .info-item {
   width: 100%;
-  background-color: #FB8500;
+  background-color: #8D1C1C;
   margin-bottom: 20px;
   padding: 20px;
   border-radius: 10px;
@@ -1781,7 +1781,7 @@ section {
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #df1529;
+  background: #8D1C1C;
   text-align: left;
   padding: 15px;
   font-weight: 600;
@@ -1878,7 +1878,7 @@ section {
 }
 
 .hero :nth-last-child(1){
-  color: #D36135;
+  color: #8D1C1C;
 }
 .hero span{
   color: var(--color-primary);
@@ -1912,13 +1912,13 @@ section {
   border-radius: 50px;
   transition: 0.3s;
   color: #fff;
-  background: #D36135;
+  background: #8D1C1C;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.08);
   border: 2px solid rgba(255, 255, 255, 0.1);
 }
 
 .hero .btn-get-started:hover {
-  background: #D36135;
+  background: #8D1C1C;
 }
 
 .hero .btn-watch-video {
