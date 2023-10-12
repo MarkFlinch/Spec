@@ -400,7 +400,7 @@ section {
   .navbar .active,
   .navbar .active:focus,
   .navbar li:hover>a {
-    color: #FB8500;
+    color: #8D1C1C;
   }
 
   .navbar .dropdown ul {
